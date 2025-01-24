@@ -11,7 +11,7 @@ const blogPosts = [
     date: "2023-06-01",
     readTime: "5 min read",
     slug: "understanding-basics-cybersecurity",
-    image: "/https://hebbkx1anhila5yf.public.blob.vercel-storage.com/a-fwEexjdLe7JhN3xQmHSD4oNcLKS8tT.jpeg"
+    image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/a-fwEexjdLe7JhN3xQmHSD4oNcLKS8tT.jpeg"
   },
    {
     title: "Top 10 Cybersecurity Tools for 2024",
